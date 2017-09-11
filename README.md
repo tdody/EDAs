@@ -10,3 +10,7 @@ This repository contains the data and notebooks used to performed the EDAs.
 2. **racial_disc** folder:  
   a. **sliderule_dsi_inferential_statistics_exercise_2.ipynb** contains the data study of the job application study.  
   b. **data** folder contains the \*.csv file containing the records.
+
+3. **hospital_readmit** folder:
+  a. **sliderule_dsi_inferential_statistics_exercise_3.ipynb** contains the data study of the hospital readmission study.  
+  b. **data** folder contains the \*.csv file containing the records.
